@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/discovery-server/discovery.iml" filepath="$PROJECT_DIR$/discovery-server/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-server/gateway.iml" filepath="$PROJECT_DIR$/gateway-server/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modelos/modelos.iml" filepath="$PROJECT_DIR$/modelos/modelos.iml" />
+    </modules>
+  </component>
+</project>
